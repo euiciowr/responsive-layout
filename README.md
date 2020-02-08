@@ -1,4 +1,4 @@
-# [Go page](https://euiciowr.github.io/responsive-layout/)
+### [Go page](https://euiciowr.github.io/responsive-layout/)
 
 # Frontend Mentor - Four card feature section
 
