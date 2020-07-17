@@ -1,4 +1,8 @@
-### [Go page](https://rwietter.github.io/responsive-layout/)
+<p align="center">
+  <a href="https://rwietter.github.io/four-card-feature-section/">Go To Project</a>
+</p>
+
+---
 
 # Frontend Mentor - Four card feature section
 
