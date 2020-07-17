@@ -4,7 +4,9 @@
 
 ---
 
-# Frontend Mentor - Four card feature section
+<p align="center">
+  <h3>Frontend Mentor - Four card feature section</h3
+</p>
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
